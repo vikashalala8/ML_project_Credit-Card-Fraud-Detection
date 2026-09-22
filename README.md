@@ -6,7 +6,7 @@ A Machine Learning web application that detects whether a credit card transactio
 
 ## 📌 Project Overview
 
-Credit card fraud has become one of the major challenges in digital banking and online transactions. This project applies Machine Learning techniques to identify fraudulent transactions based on transaction features.
+Credit card fraud has become one of the major challenges in digital banking and online transactions. This project applies Machine Learning techniques to identify fraudulent transactions based on transaction features. 
 
 The application allows users to upload a CSV file, predicts each transaction, visualizes the prediction results, and enables downloading the prediction report.
 
